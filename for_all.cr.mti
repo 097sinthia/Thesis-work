@@ -1,0 +1,25 @@
+C:/Users/sayed/OneDrive/Desktop/FOR_ALL/image_write.v {1 {vlog -work work -vopt -stats=none C:/Users/sayed/OneDrive/Desktop/FOR_ALL/image_write.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module image_write
+
+Top level modules:
+	image_write
+
+} {} {}} C:/Users/sayed/OneDrive/Desktop/FOR_ALL/parameter.v {1 {vlog -work work -vopt -stats=none C:/Users/sayed/OneDrive/Desktop/FOR_ALL/parameter.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+
+} {} {}} C:/Users/sayed/OneDrive/Desktop/FOR_ALL/image_read.v {1 {vlog -work work -vopt -stats=none C:/Users/sayed/OneDrive/Desktop/FOR_ALL/image_read.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module image_read
+
+Top level modules:
+	image_read
+
+} {} {}} C:/Users/sayed/OneDrive/Desktop/FOR_ALL/tb_simulation.v {1 {vlog -work work -vopt -stats=none C:/Users/sayed/OneDrive/Desktop/FOR_ALL/tb_simulation.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_simulation
+
+Top level modules:
+	tb_simulation
+
+} {} {}}
